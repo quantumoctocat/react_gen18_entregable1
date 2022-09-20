@@ -38,6 +38,9 @@ function App() {
         <div className="quote-button">
           <button onClick={handleClick}>New Quote</button>
         </div>
+        <div>
+          <p><a href="https://github.com/quantumoctocat/react_gen18_entregable1"><strong>--- Code at GitHub ---</strong></a></p>
+        </div>
       </div>
     </div>
   )
